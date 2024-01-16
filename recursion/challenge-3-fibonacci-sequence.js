@@ -1,3 +1,7 @@
+
+// Course: Recursion for Coding Interviews with Javascript
+// Chapter 2: Iteration vs Recursion
+
 // Challenge 3: The nth Fibonacci Number
 // Background: 
 /**
