@@ -29,7 +29,7 @@ Ref: https://byjus.com/maths/decimal-to-binary/
 	// Input: 294
 	// Output: "100100110"
 
-// ### Solution 1 - own
+// ### Solution 1 - own working before looking at example solution
 function convertDecimalToBinary(decimalNumber){
 	let binary = '';
 		
